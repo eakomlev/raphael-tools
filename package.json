@@ -1,0 +1,23 @@
+{
+  "name": "raphael-tools",
+  "version": "1.0.0",
+  "description": "Helpfull tools/add-ons for Raphael library",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eakomlev/raphael-tools.git"
+  },
+  "keywords": [
+    "Raphael",
+    "Tools"
+  ],
+  "author": "Evgeny Komlev",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/eakomlev/raphael-tools/issues"
+  },
+  "homepage": "https://github.com/eakomlev/raphael-tools#readme"
+}
